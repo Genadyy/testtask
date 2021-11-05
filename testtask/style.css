@@ -282,6 +282,12 @@
         height: 50%;
         padding: 2% 0;
     }
+    .box__title{
+        font-size: 3vw;
+    }
+    .box__option>a{
+        font-size: 2.2vw;
+    }
     .box__line{
         margin-top: 10%;
     }
