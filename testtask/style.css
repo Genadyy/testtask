@@ -306,6 +306,9 @@
     }
 }
 @media(max-width: 380px) {
+    .content__block{
+        height: 40vw;
+    }
     .box__options{
         height: 50%;
         padding: 2% 0;
